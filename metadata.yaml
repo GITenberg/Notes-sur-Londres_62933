@@ -1,5 +1,5 @@
 _repo: Notes-sur-Londres_62933
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Filon, Augustin
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1916
     gutenberg_agent_id: '38226'
     url: http://www.gutenberg.org/2009/agents/38226
+covers:
+- cover_type: archival
+  image_path: 62933-h/images/cover.jpg
 creator:
   author:
     agent_name: Puliga, Henrietta de Quigini
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '46970'
     url: http://www.gutenberg.org/2009/agents/46970
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62933#Notes-sur-Londres
 gutenberg_issued: '2020-08-15'
 gutenberg_type: Text
 identifiers:
