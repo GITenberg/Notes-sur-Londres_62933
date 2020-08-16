@@ -1,0 +1,30 @@
+_repo: Notes-sur-Londres_62933
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Filon, Augustin
+    alias: Filon, Pierre Marie Augustin
+    birthdate: 1841
+    deathdate: 1916
+    gutenberg_agent_id: '38226'
+    url: http://www.gutenberg.org/2009/agents/38226
+creator:
+  author:
+    agent_name: Puliga, Henrietta de Quigini
+    birthdate: 1847
+    deathdate: 1938
+    gutenberg_agent_id: '46970'
+    url: http://www.gutenberg.org/2009/agents/46970
+description: ''
+gutenberg_issued: '2020-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62933'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Notes sur Londres
+url: http://www.gutenberg.org/ebooks/62933
